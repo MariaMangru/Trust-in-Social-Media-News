@@ -1,11 +1,9 @@
 #### Preamble ####
-# Purpose: Cleans the raw plane data recorded by two observers..... [...UPDATE THIS...]
-# Author: Rohan Alexander [...UPDATE THIS...]
-# Date: 6 April 2023 [...UPDATE THIS...]
-# Contact: rohan.alexander@utoronto.ca [...UPDATE THIS...]
+# Purpose: Cleans the raw traffic counts recorded into a more manageable dataset 
+# Author: Maria Mangru
+# Date: March 2024
+# Contact:maria.mangru@mail.utoronto.ca
 # License: MIT
-# Pre-requisites: [...UPDATE THIS...]
-# Any other information needed? [...UPDATE THIS...]
 
 #### Workspace setup ####
 library(tidyverse)
@@ -30,6 +28,19 @@ cleaned_data <- cleaned_data %>%
                              "Trust in news or information from social media rating between 0 and 5" = "Rating 0-5",
                              "Trust in news or information from social media rating of 6 or 7" = "Rating 6-7",
                              "Trust in news or information from social media rating of 8, 9 or 10" = "Rating 8-10"))
+
+## Splitting Value column into Percent and Number columns ##
+
+cleaned_data <- cleaned_data %>%
+  mutate(VALUE = as.numeric(VALUE)) # check Value data type 
+
+## Create new columns and split the data ## 
+cleaned_data <- cleaned_data %>%
+  mutate(
+    Percent = if_else(UOM == "Percent", VALUE, NA_real_),
+    Number = if_else(UOM == "Number", VALUE, NA_real_)
+  ) %>%
+  select(-UOM, -VALUE)
 
 
 #### Save data ####
