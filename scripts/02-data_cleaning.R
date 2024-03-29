@@ -9,36 +9,28 @@
 
 #### Workspace setup ####
 library(tidyverse)
+library(dplyr)
 
 #### Clean data ####
-raw_data <- read_csv("inputs/data/plane_data.csv")
 
-cleaned_data <-
-  raw_data |>
-  janitor::clean_names() |>
-  select(wing_width_mm, wing_length_mm, flying_time_sec_first_timer) |>
-  filter(wing_width_mm != "caw") |>
-  mutate(
-    flying_time_sec_first_timer = if_else(flying_time_sec_first_timer == "1,35",
-                                   "1.35",
-                                   flying_time_sec_first_timer)
-  ) |>
-  mutate(wing_width_mm = if_else(wing_width_mm == "490",
-                                 "49",
-                                 wing_width_mm)) |>
-  mutate(wing_width_mm = if_else(wing_width_mm == "6",
-                                 "60",
-                                 wing_width_mm)) |>
-  mutate(
-    wing_width_mm = as.numeric(wing_width_mm),
-    wing_length_mm = as.numeric(wing_length_mm),
-    flying_time_sec_first_timer = as.numeric(flying_time_sec_first_timer)
-  ) |>
-  rename(flying_time = flying_time_sec_first_timer,
-         width = wing_width_mm,
-         length = wing_length_mm
-         ) |> 
-  tidyr::drop_na()
+## Load raw data ##
+raw_data <- read_csv("data/raw_data/raw_data.csv")
+
+## Remove columns which are note needed ##
+cleaned_data <- raw_data[, !names(raw_data) %in% c("GEO", "SCALAR_ID", "SYMBOL", "TERMINATED", "DECIMALS", "UOM_ID", "VECTOR", "COORDINATE")]
+
+
+## Remove rows with STATUS of F or ... ##
+cleaned_data <- cleaned_data[!cleaned_data$STATUS %in% c("E", "F", ".."), ]
+
+
+## Renaming the values in Indicator column for simplicity and readability ##
+cleaned_data <- cleaned_data %>%
+  mutate(Indicators = recode(Indicators, 
+                             "Trust in news or information from social media rating between 0 and 5" = "Rating 0-5",
+                             "Trust in news or information from social media rating of 6 or 7" = "Rating 6-7",
+                             "Trust in news or information from social media rating of 8, 9 or 10" = "Rating 8-10"))
+
 
 #### Save data ####
-write_csv(cleaned_data, "outputs/data/analysis_data.csv")
+write_csv(cleaned_data, "data/analysis_data/analysis_data.csv")

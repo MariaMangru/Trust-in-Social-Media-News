@@ -1,20 +1,469 @@
-width,length,flying_time
-70,111,1.83
-57,127,2.32
-59,92,2.05
-70,75,1.1
-62,112,2.32
-68,103.5,0.5
-58,108,1.7
-79,114,0.86
-56,186,3.42
-87,68,1.37
-50,118,2.68
-49,186,1.83
-61,116,1.32
-60,127,1
-56,184,2.79
-69,124,1.4
-60,95,1.12
-44,137,1.28
-63,125,1.35
+REF_DATE,DGUID,Gender,Sociodemographic characteristics,Indicators,Statistics,UOM,SCALAR_FACTOR,VALUE,STATUS
+2023-07,2021A000011124,Men,"Total, 15 years and over",Rating 0-5,Percentage of persons,Percent,units,78.6,NA
+2023-07,2021A000011124,Men,"Total, 15 years and over",Rating 0-5,Number of persons,Number,thousands,12470,NA
+2023-07,2021A000011124,Men,"Total, 15 years and over",Rating 6-7,Percentage of persons,Percent,units,16.3,NA
+2023-07,2021A000011124,Men,"Total, 15 years and over",Rating 6-7,Number of persons,Number,thousands,2586,NA
+2023-07,2021A000011124,Men,"Total, 15 years and over",Rating 8-10,Percentage of persons,Percent,units,5,NA
+2023-07,2021A000011124,Men,"Total, 15 years and over",Rating 8-10,Number of persons,Number,thousands,799,NA
+2023-07,2021A000011124,Men,15 to 24 years,Rating 0-5,Percentage of persons,Percent,units,66,NA
+2023-07,2021A000011124,Men,15 to 24 years,Rating 0-5,Number of persons,Number,thousands,1549,NA
+2023-07,2021A000011124,Men,15 to 24 years,Rating 6-7,Percentage of persons,Percent,units,27.6,NA
+2023-07,2021A000011124,Men,15 to 24 years,Rating 8-10,Percentage of persons,Percent,units,6.4,NA
+2023-07,2021A000011124,Men,25 to 54 years,Rating 0-5,Percentage of persons,Percent,units,78.1,NA
+2023-07,2021A000011124,Men,25 to 54 years,Rating 0-5,Number of persons,Number,thousands,6140,NA
+2023-07,2021A000011124,Men,25 to 54 years,Rating 6-7,Percentage of persons,Percent,units,16.1,NA
+2023-07,2021A000011124,Men,25 to 54 years,Rating 6-7,Number of persons,Number,thousands,1266,NA
+2023-07,2021A000011124,Men,25 to 54 years,Rating 8-10,Percentage of persons,Percent,units,5.8,NA
+2023-07,2021A000011124,Men,25 to 34 years,Rating 0-5,Percentage of persons,Percent,units,78.1,NA
+2023-07,2021A000011124,Men,25 to 34 years,Rating 0-5,Number of persons,Number,thousands,2217,NA
+2023-07,2021A000011124,Men,25 to 34 years,Rating 6-7,Percentage of persons,Percent,units,16.4,NA
+2023-07,2021A000011124,Men,25 to 34 years,Rating 8-10,Percentage of persons,Percent,units,5.6,NA
+2023-07,2021A000011124,Men,35 to 44 years,Rating 0-5,Percentage of persons,Percent,units,77.3,NA
+2023-07,2021A000011124,Men,35 to 44 years,Rating 0-5,Number of persons,Number,thousands,2068,NA
+2023-07,2021A000011124,Men,35 to 44 years,Rating 6-7,Percentage of persons,Percent,units,16.2,NA
+2023-07,2021A000011124,Men,35 to 44 years,Rating 8-10,Percentage of persons,Percent,units,6.5,NA
+2023-07,2021A000011124,Men,45 to 54 years,Rating 0-5,Percentage of persons,Percent,units,79.1,NA
+2023-07,2021A000011124,Men,45 to 54 years,Rating 0-5,Number of persons,Number,thousands,1855,NA
+2023-07,2021A000011124,Men,45 to 54 years,Rating 6-7,Percentage of persons,Percent,units,15.7,NA
+2023-07,2021A000011124,Men,45 to 54 years,Rating 8-10,Percentage of persons,Percent,units,5.3,NA
+2023-07,2021A000011124,Men,55 to 64 years,Rating 0-5,Percentage of persons,Percent,units,84.9,NA
+2023-07,2021A000011124,Men,55 to 64 years,Rating 0-5,Number of persons,Number,thousands,2088,NA
+2023-07,2021A000011124,Men,55 to 64 years,Rating 6-7,Percentage of persons,Percent,units,12.6,NA
+2023-07,2021A000011124,Men,55 to 64 years,Rating 6-7,Number of persons,Number,thousands,311,NA
+2023-07,2021A000011124,Men,55 to 64 years,Rating 8-10,Percentage of persons,Percent,units,2.5,NA
+2023-07,2021A000011124,Men,65 years and over,Rating 0-5,Percentage of persons,Percent,units,84.5,NA
+2023-07,2021A000011124,Men,65 years and over,Rating 0-5,Number of persons,Number,thousands,2694,NA
+2023-07,2021A000011124,Men,65 years and over,Rating 6-7,Percentage of persons,Percent,units,11.3,NA
+2023-07,2021A000011124,Men,65 years and over,Rating 6-7,Number of persons,Number,thousands,361,NA
+2023-07,2021A000011124,Men,65 years and over,Rating 8-10,Percentage of persons,Percent,units,4.1,NA
+2023-07,2021A000011124,Men,65 to 74 years,Rating 0-5,Percentage of persons,Percent,units,85.1,NA
+2023-07,2021A000011124,Men,65 to 74 years,Rating 0-5,Number of persons,Number,thousands,1644,NA
+2023-07,2021A000011124,Men,65 to 74 years,Rating 6-7,Percentage of persons,Percent,units,11.8,NA
+2023-07,2021A000011124,Men,65 to 74 years,Rating 8-10,Percentage of persons,Percent,units,3.2,NA
+2023-07,2021A000011124,Men,75 years and over,Rating 0-5,Percentage of persons,Percent,units,83.7,NA
+2023-07,2021A000011124,Men,75 years and over,Rating 0-5,Number of persons,Number,thousands,1050,NA
+2023-07,2021A000011124,Men,75 years and over,Rating 6-7,Percentage of persons,Percent,units,10.7,NA
+2023-07,2021A000011124,Men,75 years and over,Rating 8-10,Percentage of persons,Percent,units,5.6,NA
+2023-07,2021A000011124,Men,"Total, by immigrant status",Rating 0-5,Percentage of persons,Percent,units,78.6,NA
+2023-07,2021A000011124,Men,"Total, by immigrant status",Rating 0-5,Number of persons,Number,thousands,12470,NA
+2023-07,2021A000011124,Men,"Total, by immigrant status",Rating 6-7,Percentage of persons,Percent,units,16.3,NA
+2023-07,2021A000011124,Men,"Total, by immigrant status",Rating 6-7,Number of persons,Number,thousands,2586,NA
+2023-07,2021A000011124,Men,"Total, by immigrant status",Rating 8-10,Percentage of persons,Percent,units,5,NA
+2023-07,2021A000011124,Men,"Total, by immigrant status",Rating 8-10,Number of persons,Number,thousands,799,NA
+2023-07,2021A000011124,Men,Non-immigrants,Rating 0-5,Percentage of persons,Percent,units,83.1,NA
+2023-07,2021A000011124,Men,Non-immigrants,Rating 0-5,Number of persons,Number,thousands,9116,NA
+2023-07,2021A000011124,Men,Non-immigrants,Rating 6-7,Percentage of persons,Percent,units,13.4,NA
+2023-07,2021A000011124,Men,Non-immigrants,Rating 6-7,Number of persons,Number,thousands,1470,NA
+2023-07,2021A000011124,Men,Non-immigrants,Rating 8-10,Percentage of persons,Percent,units,3.5,NA
+2023-07,2021A000011124,Men,Immigrants,Rating 0-5,Percentage of persons,Percent,units,68.7,NA
+2023-07,2021A000011124,Men,Immigrants,Rating 0-5,Number of persons,Number,thousands,3224,NA
+2023-07,2021A000011124,Men,Immigrants,Rating 6-7,Percentage of persons,Percent,units,22.5,NA
+2023-07,2021A000011124,Men,Immigrants,Rating 6-7,Number of persons,Number,thousands,1058,NA
+2023-07,2021A000011124,Men,Immigrants,Rating 8-10,Percentage of persons,Percent,units,8.8,NA
+2023-07,2021A000011124,Men,"Immigrants, 10 years or less in Canada",Rating 0-5,Percentage of persons,Percent,units,57.5,NA
+2023-07,2021A000011124,Men,"Immigrants, 10 years or less in Canada",Rating 0-5,Number of persons,Number,thousands,868,NA
+2023-07,2021A000011124,Men,"Immigrants, 10 years or less in Canada",Rating 6-7,Percentage of persons,Percent,units,28.5,NA
+2023-07,2021A000011124,Men,"Immigrants, 10 years or less in Canada",Rating 8-10,Percentage of persons,Percent,units,14,NA
+2023-07,2021A000011124,Men,"Immigrants, more than 10 years in Canada",Rating 0-5,Percentage of persons,Percent,units,73.9,NA
+2023-07,2021A000011124,Men,"Immigrants, more than 10 years in Canada",Rating 0-5,Number of persons,Number,thousands,2356,NA
+2023-07,2021A000011124,Men,"Immigrants, more than 10 years in Canada",Rating 6-7,Percentage of persons,Percent,units,19.7,NA
+2023-07,2021A000011124,Men,"Immigrants, more than 10 years in Canada",Rating 6-7,Number of persons,Number,thousands,628,NA
+2023-07,2021A000011124,Men,"Immigrants, more than 10 years in Canada",Rating 8-10,Percentage of persons,Percent,units,6.3,NA
+2023-07,2021A000011124,Men,"Total, by visible minority group",Rating 0-5,Percentage of persons,Percent,units,78.6,NA
+2023-07,2021A000011124,Men,"Total, by visible minority group",Rating 0-5,Number of persons,Number,thousands,12470,NA
+2023-07,2021A000011124,Men,"Total, by visible minority group",Rating 6-7,Percentage of persons,Percent,units,16.3,NA
+2023-07,2021A000011124,Men,"Total, by visible minority group",Rating 6-7,Number of persons,Number,thousands,2586,NA
+2023-07,2021A000011124,Men,"Total, by visible minority group",Rating 8-10,Percentage of persons,Percent,units,5,NA
+2023-07,2021A000011124,Men,"Total, by visible minority group",Rating 8-10,Number of persons,Number,thousands,799,NA
+2023-07,2021A000011124,Men,Visible minority population,Rating 0-5,Percentage of persons,Percent,units,65,NA
+2023-07,2021A000011124,Men,Visible minority population,Rating 0-5,Number of persons,Number,thousands,2960,NA
+2023-07,2021A000011124,Men,Visible minority population,Rating 6-7,Percentage of persons,Percent,units,25.6,NA
+2023-07,2021A000011124,Men,Visible minority population,Rating 6-7,Number of persons,Number,thousands,1165,NA
+2023-07,2021A000011124,Men,Visible minority population,Rating 8-10,Percentage of persons,Percent,units,9.4,NA
+2023-07,2021A000011124,Men,South Asian,Rating 0-5,Percentage of persons,Percent,units,57.5,NA
+2023-07,2021A000011124,Men,South Asian,Rating 0-5,Number of persons,Number,thousands,781,NA
+2023-07,2021A000011124,Men,South Asian,Rating 6-7,Percentage of persons,Percent,units,29.7,NA
+2023-07,2021A000011124,Men,South Asian,Rating 8-10,Percentage of persons,Percent,units,12.8,NA
+2023-07,2021A000011124,Men,Chinese,Rating 0-5,Percentage of persons,Percent,units,65.7,NA
+2023-07,2021A000011124,Men,Chinese,Rating 0-5,Number of persons,Number,thousands,717,NA
+2023-07,2021A000011124,Men,Chinese,Rating 6-7,Percentage of persons,Percent,units,26.7,NA
+2023-07,2021A000011124,Men,Chinese,Rating 8-10,Percentage of persons,Percent,units,7.6,NA
+2023-07,2021A000011124,Men,Not a visible minority,Rating 0-5,Percentage of persons,Percent,units,84.1,NA
+2023-07,2021A000011124,Men,Not a visible minority,Rating 0-5,Number of persons,Number,thousands,9510,NA
+2023-07,2021A000011124,Men,Not a visible minority,Rating 6-7,Percentage of persons,Percent,units,12.6,NA
+2023-07,2021A000011124,Men,Not a visible minority,Rating 6-7,Number of persons,Number,thousands,1421,NA
+2023-07,2021A000011124,Men,Not a visible minority,Rating 8-10,Percentage of persons,Percent,units,3.3,NA
+2023-07,2021A000011124,Men,"Total, by Indigenous identity",Rating 0-5,Percentage of persons,Percent,units,78.6,NA
+2023-07,2021A000011124,Men,"Total, by Indigenous identity",Rating 0-5,Number of persons,Number,thousands,12470,NA
+2023-07,2021A000011124,Men,"Total, by Indigenous identity",Rating 6-7,Percentage of persons,Percent,units,16.3,NA
+2023-07,2021A000011124,Men,"Total, by Indigenous identity",Rating 6-7,Number of persons,Number,thousands,2586,NA
+2023-07,2021A000011124,Men,"Total, by Indigenous identity",Rating 8-10,Percentage of persons,Percent,units,5,NA
+2023-07,2021A000011124,Men,"Total, by Indigenous identity",Rating 8-10,Number of persons,Number,thousands,799,NA
+2023-07,2021A000011124,Men,Non-Indigenous identity,Rating 0-5,Percentage of persons,Percent,units,78.8,NA
+2023-07,2021A000011124,Men,Non-Indigenous identity,Rating 0-5,Number of persons,Number,thousands,12107,NA
+2023-07,2021A000011124,Men,Non-Indigenous identity,Rating 6-7,Percentage of persons,Percent,units,16.2,NA
+2023-07,2021A000011124,Men,Non-Indigenous identity,Rating 6-7,Number of persons,Number,thousands,2493,NA
+2023-07,2021A000011124,Men,Non-Indigenous identity,Rating 8-10,Percentage of persons,Percent,units,5,NA
+2023-07,2021A000011124,Men,Non-Indigenous identity,Rating 8-10,Number of persons,Number,thousands,766,NA
+2023-07,2021A000011124,Men,"Total, persons with and without a disability, difficulty or long-term condition",Rating 0-5,Percentage of persons,Percent,units,78.6,NA
+2023-07,2021A000011124,Men,"Total, persons with and without a disability, difficulty or long-term condition",Rating 0-5,Number of persons,Number,thousands,12470,NA
+2023-07,2021A000011124,Men,"Total, persons with and without a disability, difficulty or long-term condition",Rating 6-7,Percentage of persons,Percent,units,16.3,NA
+2023-07,2021A000011124,Men,"Total, persons with and without a disability, difficulty or long-term condition",Rating 6-7,Number of persons,Number,thousands,2586,NA
+2023-07,2021A000011124,Men,"Total, persons with and without a disability, difficulty or long-term condition",Rating 8-10,Percentage of persons,Percent,units,5,NA
+2023-07,2021A000011124,Men,"Total, persons with and without a disability, difficulty or long-term condition",Rating 8-10,Number of persons,Number,thousands,799,NA
+2023-07,2021A000011124,Men,"Persons with a disability, difficulty or long-term condition",Rating 0-5,Percentage of persons,Percent,units,82.9,NA
+2023-07,2021A000011124,Men,"Persons with a disability, difficulty or long-term condition",Rating 0-5,Number of persons,Number,thousands,5726,NA
+2023-07,2021A000011124,Men,"Persons with a disability, difficulty or long-term condition",Rating 6-7,Percentage of persons,Percent,units,13.6,NA
+2023-07,2021A000011124,Men,"Persons with a disability, difficulty or long-term condition",Rating 6-7,Number of persons,Number,thousands,936,NA
+2023-07,2021A000011124,Men,"Persons with a disability, difficulty or long-term condition",Rating 8-10,Percentage of persons,Percent,units,3.5,NA
+2023-07,2021A000011124,Men,"Persons without a disability, difficulty or long-term condition",Rating 0-5,Percentage of persons,Percent,units,75.3,NA
+2023-07,2021A000011124,Men,"Persons without a disability, difficulty or long-term condition",Rating 0-5,Number of persons,Number,thousands,6745,NA
+2023-07,2021A000011124,Men,"Persons without a disability, difficulty or long-term condition",Rating 6-7,Percentage of persons,Percent,units,18.4,NA
+2023-07,2021A000011124,Men,"Persons without a disability, difficulty or long-term condition",Rating 6-7,Number of persons,Number,thousands,1651,NA
+2023-07,2021A000011124,Men,"Persons without a disability, difficulty or long-term condition",Rating 8-10,Percentage of persons,Percent,units,6.2,NA
+2023-07,2021A000011124,Men,"Persons without a disability, difficulty or long-term condition",Rating 8-10,Number of persons,Number,thousands,557,NA
+2023-07,2021A000011124,Men,"Total, LGBTQ2+ and non-LGBTQ2+ people",Rating 0-5,Percentage of persons,Percent,units,78.6,NA
+2023-07,2021A000011124,Men,"Total, LGBTQ2+ and non-LGBTQ2+ people",Rating 0-5,Number of persons,Number,thousands,12470,NA
+2023-07,2021A000011124,Men,"Total, LGBTQ2+ and non-LGBTQ2+ people",Rating 6-7,Percentage of persons,Percent,units,16.3,NA
+2023-07,2021A000011124,Men,"Total, LGBTQ2+ and non-LGBTQ2+ people",Rating 6-7,Number of persons,Number,thousands,2586,NA
+2023-07,2021A000011124,Men,"Total, LGBTQ2+ and non-LGBTQ2+ people",Rating 8-10,Percentage of persons,Percent,units,5,NA
+2023-07,2021A000011124,Men,"Total, LGBTQ2+ and non-LGBTQ2+ people",Rating 8-10,Number of persons,Number,thousands,799,NA
+2023-07,2021A000011124,Men,LGBTQ2+ people,Rating 0-5,Percentage of persons,Percent,units,81.4,NA
+2023-07,2021A000011124,Men,LGBTQ2+ people,Rating 0-5,Number of persons,Number,thousands,700,NA
+2023-07,2021A000011124,Men,LGBTQ2+ people,Rating 6-7,Percentage of persons,Percent,units,16,NA
+2023-07,2021A000011124,Men,LGBTQ2+ people,Rating 8-10,Percentage of persons,Percent,units,2.7,NA
+2023-07,2021A000011124,Men,Non-LGBTQ2+ people,Rating 0-5,Percentage of persons,Percent,units,78.5,NA
+2023-07,2021A000011124,Men,Non-LGBTQ2+ people,Rating 0-5,Number of persons,Number,thousands,11770,NA
+2023-07,2021A000011124,Men,Non-LGBTQ2+ people,Rating 6-7,Percentage of persons,Percent,units,16.3,NA
+2023-07,2021A000011124,Men,Non-LGBTQ2+ people,Rating 6-7,Number of persons,Number,thousands,2449,NA
+2023-07,2021A000011124,Men,Non-LGBTQ2+ people,Rating 8-10,Percentage of persons,Percent,units,5.2,NA
+2023-07,2021A000011124,Men,Non-LGBTQ2+ people,Rating 8-10,Number of persons,Number,thousands,776,NA
+2023-07,2021A000011124,Men,"Total, highest certificate, diploma or degree",Rating 0-5,Percentage of persons,Percent,units,78.6,NA
+2023-07,2021A000011124,Men,"Total, highest certificate, diploma or degree",Rating 0-5,Number of persons,Number,thousands,12470,NA
+2023-07,2021A000011124,Men,"Total, highest certificate, diploma or degree",Rating 6-7,Percentage of persons,Percent,units,16.3,NA
+2023-07,2021A000011124,Men,"Total, highest certificate, diploma or degree",Rating 6-7,Number of persons,Number,thousands,2586,NA
+2023-07,2021A000011124,Men,"Total, highest certificate, diploma or degree",Rating 8-10,Percentage of persons,Percent,units,5,NA
+2023-07,2021A000011124,Men,"Total, highest certificate, diploma or degree",Rating 8-10,Number of persons,Number,thousands,799,NA
+2023-07,2021A000011124,Men,"No certificate, diploma or degree",Rating 0-5,Percentage of persons,Percent,units,73.5,NA
+2023-07,2021A000011124,Men,"No certificate, diploma or degree",Rating 0-5,Number of persons,Number,thousands,1850,NA
+2023-07,2021A000011124,Men,"No certificate, diploma or degree",Rating 6-7,Percentage of persons,Percent,units,18.6,NA
+2023-07,2021A000011124,Men,"No certificate, diploma or degree",Rating 8-10,Percentage of persons,Percent,units,7.8,NA
+2023-07,2021A000011124,Men,Secondary (high) school diploma or equivalency certificate,Rating 0-5,Percentage of persons,Percent,units,77.6,NA
+2023-07,2021A000011124,Men,Secondary (high) school diploma or equivalency certificate,Rating 0-5,Number of persons,Number,thousands,3061,NA
+2023-07,2021A000011124,Men,Secondary (high) school diploma or equivalency certificate,Rating 6-7,Percentage of persons,Percent,units,17.5,NA
+2023-07,2021A000011124,Men,Secondary (high) school diploma or equivalency certificate,Rating 6-7,Number of persons,Number,thousands,689,NA
+2023-07,2021A000011124,Men,Secondary (high) school diploma or equivalency certificate,Rating 8-10,Percentage of persons,Percent,units,4.9,NA
+2023-07,2021A000011124,Men,"Postsecondary certificate, diploma or degree",Rating 0-5,Percentage of persons,Percent,units,80.4,NA
+2023-07,2021A000011124,Men,"Postsecondary certificate, diploma or degree",Rating 0-5,Number of persons,Number,thousands,7559,NA
+2023-07,2021A000011124,Men,"Postsecondary certificate, diploma or degree",Rating 6-7,Percentage of persons,Percent,units,15.2,NA
+2023-07,2021A000011124,Men,"Postsecondary certificate, diploma or degree",Rating 6-7,Number of persons,Number,thousands,1428,NA
+2023-07,2021A000011124,Men,"Postsecondary certificate, diploma or degree",Rating 8-10,Percentage of persons,Percent,units,4.4,NA
+2023-07,2021A000011124,Men,Postsecondary certificate or diploma below bachelor level,Rating 0-5,Percentage of persons,Percent,units,82.1,NA
+2023-07,2021A000011124,Men,Postsecondary certificate or diploma below bachelor level,Rating 0-5,Number of persons,Number,thousands,4079,NA
+2023-07,2021A000011124,Men,Postsecondary certificate or diploma below bachelor level,Rating 6-7,Percentage of persons,Percent,units,14.5,NA
+2023-07,2021A000011124,Men,Postsecondary certificate or diploma below bachelor level,Rating 6-7,Number of persons,Number,thousands,720,NA
+2023-07,2021A000011124,Men,Postsecondary certificate or diploma below bachelor level,Rating 8-10,Percentage of persons,Percent,units,3.5,NA
+2023-07,2021A000011124,Men,Apprenticeship or trades certificate or diploma,Rating 0-5,Percentage of persons,Percent,units,81,NA
+2023-07,2021A000011124,Men,Apprenticeship or trades certificate or diploma,Rating 0-5,Number of persons,Number,thousands,1447,NA
+2023-07,2021A000011124,Men,Apprenticeship or trades certificate or diploma,Rating 6-7,Percentage of persons,Percent,units,14.7,NA
+2023-07,2021A000011124,Men,Apprenticeship or trades certificate or diploma,Rating 8-10,Percentage of persons,Percent,units,4.3,NA
+2023-07,2021A000011124,Men,"College, CEGEP or other non-university certificate or diploma",Rating 0-5,Percentage of persons,Percent,units,83.5,NA
+2023-07,2021A000011124,Men,"College, CEGEP or other non-university certificate or diploma",Rating 0-5,Number of persons,Number,thousands,2041,NA
+2023-07,2021A000011124,Men,"College, CEGEP or other non-university certificate or diploma",Rating 6-7,Percentage of persons,Percent,units,13.7,NA
+2023-07,2021A000011124,Men,"College, CEGEP or other non-university certificate or diploma",Rating 8-10,Percentage of persons,Percent,units,2.8,NA
+2023-07,2021A000011124,Men,University certificate or diploma below bachelor level,Rating 0-5,Percentage of persons,Percent,units,79.9,NA
+2023-07,2021A000011124,Men,University certificate or diploma below bachelor level,Rating 0-5,Number of persons,Number,thousands,591,NA
+2023-07,2021A000011124,Men,University certificate or diploma below bachelor level,Rating 6-7,Percentage of persons,Percent,units,16.5,NA
+2023-07,2021A000011124,Men,University certificate or diploma below bachelor level,Rating 8-10,Percentage of persons,Percent,units,3.6,NA
+2023-07,2021A000011124,Men,Bachelor's degree or higher,Rating 0-5,Percentage of persons,Percent,units,78.6,NA
+2023-07,2021A000011124,Men,Bachelor's degree or higher,Rating 0-5,Number of persons,Number,thousands,3480,NA
+2023-07,2021A000011124,Men,Bachelor's degree or higher,Rating 6-7,Percentage of persons,Percent,units,16,NA
+2023-07,2021A000011124,Men,Bachelor's degree or higher,Rating 6-7,Number of persons,Number,thousands,708,NA
+2023-07,2021A000011124,Men,Bachelor's degree or higher,Rating 8-10,Percentage of persons,Percent,units,5.4,NA
+2023-07,2021A000011124,Men,Bachelor's degree,Rating 0-5,Percentage of persons,Percent,units,76.1,NA
+2023-07,2021A000011124,Men,Bachelor's degree,Rating 0-5,Number of persons,Number,thousands,2106,NA
+2023-07,2021A000011124,Men,Bachelor's degree,Rating 6-7,Percentage of persons,Percent,units,17.3,NA
+2023-07,2021A000011124,Men,Bachelor's degree,Rating 6-7,Number of persons,Number,thousands,480,NA
+2023-07,2021A000011124,Men,Bachelor's degree,Rating 8-10,Percentage of persons,Percent,units,6.6,NA
+2023-07,2021A000011124,Men,"University certificate, diploma or degree above bachelor level",Rating 0-5,Percentage of persons,Percent,units,82.9,NA
+2023-07,2021A000011124,Men,"University certificate, diploma or degree above bachelor level",Rating 0-5,Number of persons,Number,thousands,1375,NA
+2023-07,2021A000011124,Men,"University certificate, diploma or degree above bachelor level",Rating 6-7,Percentage of persons,Percent,units,13.8,NA
+2023-07,2021A000011124,Men,"University certificate, diploma or degree above bachelor level",Rating 8-10,Percentage of persons,Percent,units,3.3,NA
+2023-07,2021A000011124,Men,"Total, by main activity",Rating 0-5,Percentage of persons,Percent,units,78.6,NA
+2023-07,2021A000011124,Men,"Total, by main activity",Rating 0-5,Number of persons,Number,thousands,12470,NA
+2023-07,2021A000011124,Men,"Total, by main activity",Rating 6-7,Percentage of persons,Percent,units,16.3,NA
+2023-07,2021A000011124,Men,"Total, by main activity",Rating 6-7,Number of persons,Number,thousands,2586,NA
+2023-07,2021A000011124,Men,"Total, by main activity",Rating 8-10,Percentage of persons,Percent,units,5,NA
+2023-07,2021A000011124,Men,"Total, by main activity",Rating 8-10,Number of persons,Number,thousands,799,NA
+2023-07,2021A000011124,Men,Working at a paid job or business,Rating 0-5,Percentage of persons,Percent,units,78.1,NA
+2023-07,2021A000011124,Men,Working at a paid job or business,Rating 0-5,Number of persons,Number,thousands,7090,NA
+2023-07,2021A000011124,Men,Working at a paid job or business,Rating 6-7,Percentage of persons,Percent,units,16.9,NA
+2023-07,2021A000011124,Men,Working at a paid job or business,Rating 6-7,Number of persons,Number,thousands,1536,NA
+2023-07,2021A000011124,Men,Working at a paid job or business,Rating 8-10,Percentage of persons,Percent,units,5,NA
+2023-07,2021A000011124,Men,Retired,Rating 0-5,Percentage of persons,Percent,units,85.2,NA
+2023-07,2021A000011124,Men,Retired,Rating 0-5,Number of persons,Number,thousands,2590,NA
+2023-07,2021A000011124,Men,Retired,Rating 6-7,Percentage of persons,Percent,units,11.2,NA
+2023-07,2021A000011124,Men,Retired,Rating 6-7,Number of persons,Number,thousands,339,NA
+2023-07,2021A000011124,Men,Retired,Rating 8-10,Percentage of persons,Percent,units,3.7,NA
+2023-07,2021A000011124,Men,Other activity,Rating 0-5,Percentage of persons,Percent,units,74.6,NA
+2023-07,2021A000011124,Men,Other activity,Rating 0-5,Number of persons,Number,thousands,2791,NA
+2023-07,2021A000011124,Men,Other activity,Rating 6-7,Percentage of persons,Percent,units,19,NA
+2023-07,2021A000011124,Men,Other activity,Rating 6-7,Number of persons,Number,thousands,711,NA
+2023-07,2021A000011124,Men,Other activity,Rating 8-10,Percentage of persons,Percent,units,6.3,NA
+2023-07,2021A000011124,Men,"Total, urban and rural areas",Rating 0-5,Percentage of persons,Percent,units,78.6,NA
+2023-07,2021A000011124,Men,"Total, urban and rural areas",Rating 0-5,Number of persons,Number,thousands,12470,NA
+2023-07,2021A000011124,Men,"Total, urban and rural areas",Rating 6-7,Percentage of persons,Percent,units,16.3,NA
+2023-07,2021A000011124,Men,"Total, urban and rural areas",Rating 6-7,Number of persons,Number,thousands,2586,NA
+2023-07,2021A000011124,Men,"Total, urban and rural areas",Rating 8-10,Percentage of persons,Percent,units,5,NA
+2023-07,2021A000011124,Men,"Total, urban and rural areas",Rating 8-10,Number of persons,Number,thousands,799,NA
+2023-07,2021A000011124,Men,Urban areas,Rating 0-5,Percentage of persons,Percent,units,77.9,NA
+2023-07,2021A000011124,Men,Urban areas,Rating 0-5,Number of persons,Number,thousands,10704,NA
+2023-07,2021A000011124,Men,Urban areas,Rating 6-7,Percentage of persons,Percent,units,16.9,NA
+2023-07,2021A000011124,Men,Urban areas,Rating 6-7,Number of persons,Number,thousands,2324,NA
+2023-07,2021A000011124,Men,Urban areas,Rating 8-10,Percentage of persons,Percent,units,5.2,NA
+2023-07,2021A000011124,Men,Urban areas,Rating 8-10,Number of persons,Number,thousands,710,NA
+2023-07,2021A000011124,Men,Rural areas,Rating 0-5,Percentage of persons,Percent,units,83.4,NA
+2023-07,2021A000011124,Men,Rural areas,Rating 0-5,Number of persons,Number,thousands,1766,NA
+2023-07,2021A000011124,Men,Rural areas,Rating 6-7,Percentage of persons,Percent,units,12.4,NA
+2023-07,2021A000011124,Men,Rural areas,Rating 8-10,Percentage of persons,Percent,units,4.2,NA
+2023-07,2021A000011124,Women,"Total, 15 years and over",Rating 0-5,Percentage of persons,Percent,units,75.2,NA
+2023-07,2021A000011124,Women,"Total, 15 years and over",Rating 0-5,Number of persons,Number,thousands,12151,NA
+2023-07,2021A000011124,Women,"Total, 15 years and over",Rating 6-7,Percentage of persons,Percent,units,20,NA
+2023-07,2021A000011124,Women,"Total, 15 years and over",Rating 6-7,Number of persons,Number,thousands,3236,NA
+2023-07,2021A000011124,Women,"Total, 15 years and over",Rating 8-10,Percentage of persons,Percent,units,4.7,NA
+2023-07,2021A000011124,Women,"Total, 15 years and over",Rating 8-10,Number of persons,Number,thousands,764,NA
+2023-07,2021A000011124,Women,15 to 24 years,Rating 0-5,Percentage of persons,Percent,units,64.2,NA
+2023-07,2021A000011124,Women,15 to 24 years,Rating 0-5,Number of persons,Number,thousands,1433,NA
+2023-07,2021A000011124,Women,15 to 24 years,Rating 6-7,Percentage of persons,Percent,units,30.1,NA
+2023-07,2021A000011124,Women,15 to 24 years,Rating 8-10,Percentage of persons,Percent,units,5.7,NA
+2023-07,2021A000011124,Women,25 to 54 years,Rating 0-5,Percentage of persons,Percent,units,74.3,NA
+2023-07,2021A000011124,Women,25 to 54 years,Rating 0-5,Number of persons,Number,thousands,5732,NA
+2023-07,2021A000011124,Women,25 to 54 years,Rating 6-7,Percentage of persons,Percent,units,20.6,NA
+2023-07,2021A000011124,Women,25 to 54 years,Rating 6-7,Number of persons,Number,thousands,1591,NA
+2023-07,2021A000011124,Women,25 to 54 years,Rating 8-10,Percentage of persons,Percent,units,5,NA
+2023-07,2021A000011124,Women,25 to 34 years,Rating 0-5,Percentage of persons,Percent,units,73.5,NA
+2023-07,2021A000011124,Women,25 to 34 years,Rating 0-5,Number of persons,Number,thousands,1970,NA
+2023-07,2021A000011124,Women,25 to 34 years,Rating 6-7,Percentage of persons,Percent,units,21.8,NA
+2023-07,2021A000011124,Women,25 to 34 years,Rating 8-10,Percentage of persons,Percent,units,4.6,NA
+2023-07,2021A000011124,Women,35 to 44 years,Rating 0-5,Percentage of persons,Percent,units,75.2,NA
+2023-07,2021A000011124,Women,35 to 44 years,Rating 0-5,Number of persons,Number,thousands,1986,NA
+2023-07,2021A000011124,Women,35 to 44 years,Rating 6-7,Percentage of persons,Percent,units,20.1,NA
+2023-07,2021A000011124,Women,35 to 44 years,Rating 6-7,Number of persons,Number,thousands,531,NA
+2023-07,2021A000011124,Women,35 to 44 years,Rating 8-10,Percentage of persons,Percent,units,4.8,NA
+2023-07,2021A000011124,Women,45 to 54 years,Rating 0-5,Percentage of persons,Percent,units,74.3,NA
+2023-07,2021A000011124,Women,45 to 54 years,Rating 0-5,Number of persons,Number,thousands,1775,NA
+2023-07,2021A000011124,Women,45 to 54 years,Rating 6-7,Percentage of persons,Percent,units,19.9,NA
+2023-07,2021A000011124,Women,45 to 54 years,Rating 6-7,Number of persons,Number,thousands,475,NA
+2023-07,2021A000011124,Women,45 to 54 years,Rating 8-10,Percentage of persons,Percent,units,5.8,NA
+2023-07,2021A000011124,Women,55 to 64 years,Rating 0-5,Percentage of persons,Percent,units,76.9,NA
+2023-07,2021A000011124,Women,55 to 64 years,Rating 0-5,Number of persons,Number,thousands,1967,NA
+2023-07,2021A000011124,Women,55 to 64 years,Rating 6-7,Percentage of persons,Percent,units,18.9,NA
+2023-07,2021A000011124,Women,55 to 64 years,Rating 6-7,Number of persons,Number,thousands,485,NA
+2023-07,2021A000011124,Women,55 to 64 years,Rating 8-10,Percentage of persons,Percent,units,4.2,NA
+2023-07,2021A000011124,Women,65 years and over,Rating 0-5,Percentage of persons,Percent,units,82.7,NA
+2023-07,2021A000011124,Women,65 years and over,Rating 0-5,Number of persons,Number,thousands,3020,NA
+2023-07,2021A000011124,Women,65 years and over,Rating 6-7,Percentage of persons,Percent,units,13.4,NA
+2023-07,2021A000011124,Women,65 years and over,Rating 6-7,Number of persons,Number,thousands,490,NA
+2023-07,2021A000011124,Women,65 years and over,Rating 8-10,Percentage of persons,Percent,units,3.9,NA
+2023-07,2021A000011124,Women,65 to 74 years,Rating 0-5,Percentage of persons,Percent,units,82.9,NA
+2023-07,2021A000011124,Women,65 to 74 years,Rating 0-5,Number of persons,Number,thousands,1698,NA
+2023-07,2021A000011124,Women,65 to 74 years,Rating 6-7,Percentage of persons,Percent,units,14.3,NA
+2023-07,2021A000011124,Women,65 to 74 years,Rating 8-10,Percentage of persons,Percent,units,2.8,NA
+2023-07,2021A000011124,Women,75 years and over,Rating 0-5,Percentage of persons,Percent,units,82.4,NA
+2023-07,2021A000011124,Women,75 years and over,Rating 0-5,Number of persons,Number,thousands,1321,NA
+2023-07,2021A000011124,Women,75 years and over,Rating 6-7,Percentage of persons,Percent,units,12.3,NA
+2023-07,2021A000011124,Women,75 years and over,Rating 8-10,Percentage of persons,Percent,units,5.2,NA
+2023-07,2021A000011124,Women,"Total, by immigrant status",Rating 0-5,Percentage of persons,Percent,units,75.2,NA
+2023-07,2021A000011124,Women,"Total, by immigrant status",Rating 0-5,Number of persons,Number,thousands,12151,NA
+2023-07,2021A000011124,Women,"Total, by immigrant status",Rating 6-7,Percentage of persons,Percent,units,20,NA
+2023-07,2021A000011124,Women,"Total, by immigrant status",Rating 6-7,Number of persons,Number,thousands,3236,NA
+2023-07,2021A000011124,Women,"Total, by immigrant status",Rating 8-10,Percentage of persons,Percent,units,4.7,NA
+2023-07,2021A000011124,Women,"Total, by immigrant status",Rating 8-10,Number of persons,Number,thousands,764,NA
+2023-07,2021A000011124,Women,Non-immigrants,Rating 0-5,Percentage of persons,Percent,units,78,NA
+2023-07,2021A000011124,Women,Non-immigrants,Rating 0-5,Number of persons,Number,thousands,9071,NA
+2023-07,2021A000011124,Women,Non-immigrants,Rating 6-7,Percentage of persons,Percent,units,18.4,NA
+2023-07,2021A000011124,Women,Non-immigrants,Rating 6-7,Number of persons,Number,thousands,2146,NA
+2023-07,2021A000011124,Women,Non-immigrants,Rating 8-10,Percentage of persons,Percent,units,3.6,NA
+2023-07,2021A000011124,Women,Non-immigrants,Rating 8-10,Number of persons,Number,thousands,413,NA
+2023-07,2021A000011124,Women,Immigrants,Rating 0-5,Percentage of persons,Percent,units,68.5,NA
+2023-07,2021A000011124,Women,Immigrants,Rating 0-5,Number of persons,Number,thousands,2994,NA
+2023-07,2021A000011124,Women,Immigrants,Rating 6-7,Percentage of persons,Percent,units,23.6,NA
+2023-07,2021A000011124,Women,Immigrants,Rating 6-7,Number of persons,Number,thousands,1031,NA
+2023-07,2021A000011124,Women,Immigrants,Rating 8-10,Percentage of persons,Percent,units,7.9,NA
+2023-07,2021A000011124,Women,"Immigrants, 10 years or less in Canada",Rating 0-5,Percentage of persons,Percent,units,63.5,NA
+2023-07,2021A000011124,Women,"Immigrants, 10 years or less in Canada",Rating 0-5,Number of persons,Number,thousands,699,NA
+2023-07,2021A000011124,Women,"Immigrants, 10 years or less in Canada",Rating 6-7,Percentage of persons,Percent,units,26.3,NA
+2023-07,2021A000011124,Women,"Immigrants, 10 years or less in Canada",Rating 8-10,Percentage of persons,Percent,units,10.2,NA
+2023-07,2021A000011124,Women,"Immigrants, more than 10 years in Canada",Rating 0-5,Percentage of persons,Percent,units,70.2,NA
+2023-07,2021A000011124,Women,"Immigrants, more than 10 years in Canada",Rating 0-5,Number of persons,Number,thousands,2294,NA
+2023-07,2021A000011124,Women,"Immigrants, more than 10 years in Canada",Rating 6-7,Percentage of persons,Percent,units,22.7,NA
+2023-07,2021A000011124,Women,"Immigrants, more than 10 years in Canada",Rating 6-7,Number of persons,Number,thousands,741,NA
+2023-07,2021A000011124,Women,"Immigrants, more than 10 years in Canada",Rating 8-10,Percentage of persons,Percent,units,7.1,NA
+2023-07,2021A000011124,Women,"Total, by visible minority group",Rating 0-5,Percentage of persons,Percent,units,75.2,NA
+2023-07,2021A000011124,Women,"Total, by visible minority group",Rating 0-5,Number of persons,Number,thousands,12151,NA
+2023-07,2021A000011124,Women,"Total, by visible minority group",Rating 6-7,Percentage of persons,Percent,units,20,NA
+2023-07,2021A000011124,Women,"Total, by visible minority group",Rating 6-7,Number of persons,Number,thousands,3236,NA
+2023-07,2021A000011124,Women,"Total, by visible minority group",Rating 8-10,Percentage of persons,Percent,units,4.7,NA
+2023-07,2021A000011124,Women,"Total, by visible minority group",Rating 8-10,Number of persons,Number,thousands,764,NA
+2023-07,2021A000011124,Women,Visible minority population,Rating 0-5,Percentage of persons,Percent,units,63.7,NA
+2023-07,2021A000011124,Women,Visible minority population,Rating 0-5,Number of persons,Number,thousands,2629,NA
+2023-07,2021A000011124,Women,Visible minority population,Rating 6-7,Percentage of persons,Percent,units,27.1,NA
+2023-07,2021A000011124,Women,Visible minority population,Rating 6-7,Number of persons,Number,thousands,1121,NA
+2023-07,2021A000011124,Women,Visible minority population,Rating 8-10,Percentage of persons,Percent,units,9.2,NA
+2023-07,2021A000011124,Women,South Asian,Rating 0-5,Percentage of persons,Percent,units,62,NA
+2023-07,2021A000011124,Women,South Asian,Rating 6-7,Percentage of persons,Percent,units,25.9,NA
+2023-07,2021A000011124,Women,South Asian,Rating 8-10,Percentage of persons,Percent,units,12.1,NA
+2023-07,2021A000011124,Women,Chinese,Rating 0-5,Percentage of persons,Percent,units,64.2,NA
+2023-07,2021A000011124,Women,Chinese,Rating 0-5,Number of persons,Number,thousands,569,NA
+2023-07,2021A000011124,Women,Chinese,Rating 6-7,Percentage of persons,Percent,units,30,NA
+2023-07,2021A000011124,Women,Chinese,Rating 8-10,Percentage of persons,Percent,units,5.8,NA
+2023-07,2021A000011124,Women,Filipino,Rating 0-5,Percentage of persons,Percent,units,44.2,NA
+2023-07,2021A000011124,Women,Filipino,Rating 6-7,Percentage of persons,Percent,units,35.5,NA
+2023-07,2021A000011124,Women,Filipino,Rating 8-10,Percentage of persons,Percent,units,20.3,NA
+2023-07,2021A000011124,Women,Not a visible minority,Rating 0-5,Percentage of persons,Percent,units,79.2,NA
+2023-07,2021A000011124,Women,Not a visible minority,Rating 0-5,Number of persons,Number,thousands,9522,NA
+2023-07,2021A000011124,Women,Not a visible minority,Rating 6-7,Percentage of persons,Percent,units,17.6,NA
+2023-07,2021A000011124,Women,Not a visible minority,Rating 6-7,Number of persons,Number,thousands,2115,NA
+2023-07,2021A000011124,Women,Not a visible minority,Rating 8-10,Percentage of persons,Percent,units,3.2,NA
+2023-07,2021A000011124,Women,Not a visible minority,Rating 8-10,Number of persons,Number,thousands,383,NA
+2023-07,2021A000011124,Women,"Total, by Indigenous identity",Rating 0-5,Percentage of persons,Percent,units,75.2,NA
+2023-07,2021A000011124,Women,"Total, by Indigenous identity",Rating 0-5,Number of persons,Number,thousands,12151,NA
+2023-07,2021A000011124,Women,"Total, by Indigenous identity",Rating 6-7,Percentage of persons,Percent,units,20,NA
+2023-07,2021A000011124,Women,"Total, by Indigenous identity",Rating 6-7,Number of persons,Number,thousands,3236,NA
+2023-07,2021A000011124,Women,"Total, by Indigenous identity",Rating 8-10,Percentage of persons,Percent,units,4.7,NA
+2023-07,2021A000011124,Women,"Total, by Indigenous identity",Rating 8-10,Number of persons,Number,thousands,764,NA
+2023-07,2021A000011124,Women,Indigenous identity,Rating 0-5,Percentage of persons,Percent,units,77.3,NA
+2023-07,2021A000011124,Women,Indigenous identity,Rating 0-5,Number of persons,Number,thousands,425,NA
+2023-07,2021A000011124,Women,Indigenous identity,Rating 6-7,Percentage of persons,Percent,units,17.9,NA
+2023-07,2021A000011124,Women,Indigenous identity,Rating 8-10,Percentage of persons,Percent,units,4.8,NA
+2023-07,2021A000011124,Women,Single Indigenous identity,Rating 0-5,Percentage of persons,Percent,units,78.7,NA
+2023-07,2021A000011124,Women,Single Indigenous identity,Rating 6-7,Percentage of persons,Percent,units,16.4,NA
+2023-07,2021A000011124,Women,Single Indigenous identity,Rating 8-10,Percentage of persons,Percent,units,4.9,NA
+2023-07,2021A000011124,Women,Non-Indigenous identity,Rating 0-5,Percentage of persons,Percent,units,75.2,NA
+2023-07,2021A000011124,Women,Non-Indigenous identity,Rating 0-5,Number of persons,Number,thousands,11726,NA
+2023-07,2021A000011124,Women,Non-Indigenous identity,Rating 6-7,Percentage of persons,Percent,units,20.1,NA
+2023-07,2021A000011124,Women,Non-Indigenous identity,Rating 6-7,Number of persons,Number,thousands,3138,NA
+2023-07,2021A000011124,Women,Non-Indigenous identity,Rating 8-10,Percentage of persons,Percent,units,4.7,NA
+2023-07,2021A000011124,Women,Non-Indigenous identity,Rating 8-10,Number of persons,Number,thousands,738,NA
+2023-07,2021A000011124,Women,"Total, persons with and without a disability, difficulty or long-term condition",Rating 0-5,Percentage of persons,Percent,units,75.2,NA
+2023-07,2021A000011124,Women,"Total, persons with and without a disability, difficulty or long-term condition",Rating 0-5,Number of persons,Number,thousands,12151,NA
+2023-07,2021A000011124,Women,"Total, persons with and without a disability, difficulty or long-term condition",Rating 6-7,Percentage of persons,Percent,units,20,NA
+2023-07,2021A000011124,Women,"Total, persons with and without a disability, difficulty or long-term condition",Rating 6-7,Number of persons,Number,thousands,3236,NA
+2023-07,2021A000011124,Women,"Total, persons with and without a disability, difficulty or long-term condition",Rating 8-10,Percentage of persons,Percent,units,4.7,NA
+2023-07,2021A000011124,Women,"Total, persons with and without a disability, difficulty or long-term condition",Rating 8-10,Number of persons,Number,thousands,764,NA
+2023-07,2021A000011124,Women,"Persons with a disability, difficulty or long-term condition",Rating 0-5,Percentage of persons,Percent,units,78.2,NA
+2023-07,2021A000011124,Women,"Persons with a disability, difficulty or long-term condition",Rating 0-5,Number of persons,Number,thousands,6636,NA
+2023-07,2021A000011124,Women,"Persons with a disability, difficulty or long-term condition",Rating 6-7,Percentage of persons,Percent,units,18,NA
+2023-07,2021A000011124,Women,"Persons with a disability, difficulty or long-term condition",Rating 6-7,Number of persons,Number,thousands,1530,NA
+2023-07,2021A000011124,Women,"Persons with a disability, difficulty or long-term condition",Rating 8-10,Percentage of persons,Percent,units,3.8,NA
+2023-07,2021A000011124,Women,"Persons without a disability, difficulty or long-term condition",Rating 0-5,Percentage of persons,Percent,units,72,NA
+2023-07,2021A000011124,Women,"Persons without a disability, difficulty or long-term condition",Rating 0-5,Number of persons,Number,thousands,5515,NA
+2023-07,2021A000011124,Women,"Persons without a disability, difficulty or long-term condition",Rating 6-7,Percentage of persons,Percent,units,22.3,NA
+2023-07,2021A000011124,Women,"Persons without a disability, difficulty or long-term condition",Rating 6-7,Number of persons,Number,thousands,1706,NA
+2023-07,2021A000011124,Women,"Persons without a disability, difficulty or long-term condition",Rating 8-10,Percentage of persons,Percent,units,5.8,NA
+2023-07,2021A000011124,Women,"Total, LGBTQ2+ and non-LGBTQ2+ people",Rating 0-5,Percentage of persons,Percent,units,75.2,NA
+2023-07,2021A000011124,Women,"Total, LGBTQ2+ and non-LGBTQ2+ people",Rating 0-5,Number of persons,Number,thousands,12151,NA
+2023-07,2021A000011124,Women,"Total, LGBTQ2+ and non-LGBTQ2+ people",Rating 6-7,Percentage of persons,Percent,units,20,NA
+2023-07,2021A000011124,Women,"Total, LGBTQ2+ and non-LGBTQ2+ people",Rating 6-7,Number of persons,Number,thousands,3236,NA
+2023-07,2021A000011124,Women,"Total, LGBTQ2+ and non-LGBTQ2+ people",Rating 8-10,Percentage of persons,Percent,units,4.7,NA
+2023-07,2021A000011124,Women,"Total, LGBTQ2+ and non-LGBTQ2+ people",Rating 8-10,Number of persons,Number,thousands,764,NA
+2023-07,2021A000011124,Women,LGBTQ2+ people,Rating 0-5,Percentage of persons,Percent,units,74.3,NA
+2023-07,2021A000011124,Women,LGBTQ2+ people,Rating 0-5,Number of persons,Number,thousands,979,NA
+2023-07,2021A000011124,Women,LGBTQ2+ people,Rating 6-7,Percentage of persons,Percent,units,19.4,NA
+2023-07,2021A000011124,Women,LGBTQ2+ people,Rating 8-10,Percentage of persons,Percent,units,6.3,NA
+2023-07,2021A000011124,Women,Non-LGBTQ2+ people,Rating 0-5,Percentage of persons,Percent,units,75.3,NA
+2023-07,2021A000011124,Women,Non-LGBTQ2+ people,Rating 0-5,Number of persons,Number,thousands,11172,NA
+2023-07,2021A000011124,Women,Non-LGBTQ2+ people,Rating 6-7,Percentage of persons,Percent,units,20.1,NA
+2023-07,2021A000011124,Women,Non-LGBTQ2+ people,Rating 6-7,Number of persons,Number,thousands,2980,NA
+2023-07,2021A000011124,Women,Non-LGBTQ2+ people,Rating 8-10,Percentage of persons,Percent,units,4.6,NA
+2023-07,2021A000011124,Women,Non-LGBTQ2+ people,Rating 8-10,Number of persons,Number,thousands,681,NA
+2023-07,2021A000011124,Women,"Total, highest certificate, diploma or degree",Rating 0-5,Percentage of persons,Percent,units,75.2,NA
+2023-07,2021A000011124,Women,"Total, highest certificate, diploma or degree",Rating 0-5,Number of persons,Number,thousands,12151,NA
+2023-07,2021A000011124,Women,"Total, highest certificate, diploma or degree",Rating 6-7,Percentage of persons,Percent,units,20,NA
+2023-07,2021A000011124,Women,"Total, highest certificate, diploma or degree",Rating 6-7,Number of persons,Number,thousands,3236,NA
+2023-07,2021A000011124,Women,"Total, highest certificate, diploma or degree",Rating 8-10,Percentage of persons,Percent,units,4.7,NA
+2023-07,2021A000011124,Women,"Total, highest certificate, diploma or degree",Rating 8-10,Number of persons,Number,thousands,764,NA
+2023-07,2021A000011124,Women,"No certificate, diploma or degree",Rating 0-5,Percentage of persons,Percent,units,72.8,NA
+2023-07,2021A000011124,Women,"No certificate, diploma or degree",Rating 0-5,Number of persons,Number,thousands,1578,NA
+2023-07,2021A000011124,Women,"No certificate, diploma or degree",Rating 6-7,Percentage of persons,Percent,units,21,NA
+2023-07,2021A000011124,Women,"No certificate, diploma or degree",Rating 8-10,Percentage of persons,Percent,units,6.2,NA
+2023-07,2021A000011124,Women,Secondary (high) school diploma or equivalency certificate,Rating 0-5,Percentage of persons,Percent,units,74.3,NA
+2023-07,2021A000011124,Women,Secondary (high) school diploma or equivalency certificate,Rating 0-5,Number of persons,Number,thousands,2893,NA
+2023-07,2021A000011124,Women,Secondary (high) school diploma or equivalency certificate,Rating 6-7,Percentage of persons,Percent,units,19.9,NA
+2023-07,2021A000011124,Women,Secondary (high) school diploma or equivalency certificate,Rating 6-7,Number of persons,Number,thousands,776,NA
+2023-07,2021A000011124,Women,Secondary (high) school diploma or equivalency certificate,Rating 8-10,Percentage of persons,Percent,units,5.8,NA
+2023-07,2021A000011124,Women,"Postsecondary certificate, diploma or degree",Rating 0-5,Percentage of persons,Percent,units,76.1,NA
+2023-07,2021A000011124,Women,"Postsecondary certificate, diploma or degree",Rating 0-5,Number of persons,Number,thousands,7681,NA
+2023-07,2021A000011124,Women,"Postsecondary certificate, diploma or degree",Rating 6-7,Percentage of persons,Percent,units,19.9,NA
+2023-07,2021A000011124,Women,"Postsecondary certificate, diploma or degree",Rating 6-7,Number of persons,Number,thousands,2005,NA
+2023-07,2021A000011124,Women,"Postsecondary certificate, diploma or degree",Rating 8-10,Percentage of persons,Percent,units,4,NA
+2023-07,2021A000011124,Women,"Postsecondary certificate, diploma or degree",Rating 8-10,Number of persons,Number,thousands,404,NA
+2023-07,2021A000011124,Women,Postsecondary certificate or diploma below bachelor level,Rating 0-5,Percentage of persons,Percent,units,75.7,NA
+2023-07,2021A000011124,Women,Postsecondary certificate or diploma below bachelor level,Rating 0-5,Number of persons,Number,thousands,3924,NA
+2023-07,2021A000011124,Women,Postsecondary certificate or diploma below bachelor level,Rating 6-7,Percentage of persons,Percent,units,18.9,NA
+2023-07,2021A000011124,Women,Postsecondary certificate or diploma below bachelor level,Rating 6-7,Number of persons,Number,thousands,982,NA
+2023-07,2021A000011124,Women,Postsecondary certificate or diploma below bachelor level,Rating 8-10,Percentage of persons,Percent,units,5.4,NA
+2023-07,2021A000011124,Women,Apprenticeship or trades certificate or diploma,Rating 0-5,Percentage of persons,Percent,units,75.6,NA
+2023-07,2021A000011124,Women,Apprenticeship or trades certificate or diploma,Rating 0-5,Number of persons,Number,thousands,719,NA
+2023-07,2021A000011124,Women,Apprenticeship or trades certificate or diploma,Rating 6-7,Percentage of persons,Percent,units,19.8,NA
+2023-07,2021A000011124,Women,Apprenticeship or trades certificate or diploma,Rating 8-10,Percentage of persons,Percent,units,4.6,NA
+2023-07,2021A000011124,Women,"College, CEGEP or other non-university certificate or diploma",Rating 0-5,Percentage of persons,Percent,units,76.1,NA
+2023-07,2021A000011124,Women,"College, CEGEP or other non-university certificate or diploma",Rating 0-5,Number of persons,Number,thousands,2605,NA
+2023-07,2021A000011124,Women,"College, CEGEP or other non-university certificate or diploma",Rating 6-7,Percentage of persons,Percent,units,18.4,NA
+2023-07,2021A000011124,Women,"College, CEGEP or other non-university certificate or diploma",Rating 6-7,Number of persons,Number,thousands,630,NA
+2023-07,2021A000011124,Women,"College, CEGEP or other non-university certificate or diploma",Rating 8-10,Percentage of persons,Percent,units,5.5,NA
+2023-07,2021A000011124,Women,University certificate or diploma below bachelor level,Rating 0-5,Percentage of persons,Percent,units,74.3,NA
+2023-07,2021A000011124,Women,University certificate or diploma below bachelor level,Rating 0-5,Number of persons,Number,thousands,600,NA
+2023-07,2021A000011124,Women,University certificate or diploma below bachelor level,Rating 6-7,Percentage of persons,Percent,units,20.2,NA
+2023-07,2021A000011124,Women,University certificate or diploma below bachelor level,Rating 8-10,Percentage of persons,Percent,units,5.6,NA
+2023-07,2021A000011124,Women,Bachelor's degree or higher,Rating 0-5,Percentage of persons,Percent,units,76.6,NA
+2023-07,2021A000011124,Women,Bachelor's degree or higher,Rating 0-5,Number of persons,Number,thousands,3757,NA
+2023-07,2021A000011124,Women,Bachelor's degree or higher,Rating 6-7,Percentage of persons,Percent,units,20.9,NA
+2023-07,2021A000011124,Women,Bachelor's degree or higher,Rating 6-7,Number of persons,Number,thousands,1023,NA
+2023-07,2021A000011124,Women,Bachelor's degree or higher,Rating 8-10,Percentage of persons,Percent,units,2.6,NA
+2023-07,2021A000011124,Women,Bachelor's degree,Rating 0-5,Percentage of persons,Percent,units,75.5,NA
+2023-07,2021A000011124,Women,Bachelor's degree,Rating 0-5,Number of persons,Number,thousands,2403,NA
+2023-07,2021A000011124,Women,Bachelor's degree,Rating 6-7,Percentage of persons,Percent,units,22.6,NA
+2023-07,2021A000011124,Women,Bachelor's degree,Rating 6-7,Number of persons,Number,thousands,719,NA
+2023-07,2021A000011124,Women,Bachelor's degree,Rating 8-10,Percentage of persons,Percent,units,2,NA
+2023-07,2021A000011124,Women,"University certificate, diploma or degree above bachelor level",Rating 0-5,Percentage of persons,Percent,units,78.7,NA
+2023-07,2021A000011124,Women,"University certificate, diploma or degree above bachelor level",Rating 0-5,Number of persons,Number,thousands,1353,NA
+2023-07,2021A000011124,Women,"University certificate, diploma or degree above bachelor level",Rating 6-7,Percentage of persons,Percent,units,17.7,NA
+2023-07,2021A000011124,Women,"University certificate, diploma or degree above bachelor level",Rating 8-10,Percentage of persons,Percent,units,3.6,NA
+2023-07,2021A000011124,Women,"Total, by main activity",Rating 0-5,Percentage of persons,Percent,units,75.2,NA
+2023-07,2021A000011124,Women,"Total, by main activity",Rating 0-5,Number of persons,Number,thousands,12151,NA
+2023-07,2021A000011124,Women,"Total, by main activity",Rating 6-7,Percentage of persons,Percent,units,20,NA
+2023-07,2021A000011124,Women,"Total, by main activity",Rating 6-7,Number of persons,Number,thousands,3236,NA
+2023-07,2021A000011124,Women,"Total, by main activity",Rating 8-10,Percentage of persons,Percent,units,4.7,NA
+2023-07,2021A000011124,Women,"Total, by main activity",Rating 8-10,Number of persons,Number,thousands,764,NA
+2023-07,2021A000011124,Women,Working at a paid job or business,Rating 0-5,Percentage of persons,Percent,units,73.9,NA
+2023-07,2021A000011124,Women,Working at a paid job or business,Rating 0-5,Number of persons,Number,thousands,5349,NA
+2023-07,2021A000011124,Women,Working at a paid job or business,Rating 6-7,Percentage of persons,Percent,units,22.2,NA
+2023-07,2021A000011124,Women,Working at a paid job or business,Rating 6-7,Number of persons,Number,thousands,1606,NA
+2023-07,2021A000011124,Women,Working at a paid job or business,Rating 8-10,Percentage of persons,Percent,units,3.9,NA
+2023-07,2021A000011124,Women,Retired,Rating 0-5,Percentage of persons,Percent,units,83.3,NA
+2023-07,2021A000011124,Women,Retired,Rating 0-5,Number of persons,Number,thousands,2922,NA
+2023-07,2021A000011124,Women,Retired,Rating 6-7,Percentage of persons,Percent,units,13,NA
+2023-07,2021A000011124,Women,Retired,Rating 6-7,Number of persons,Number,thousands,457,NA
+2023-07,2021A000011124,Women,Retired,Rating 8-10,Percentage of persons,Percent,units,3.7,NA
+2023-07,2021A000011124,Women,Other activity,Rating 0-5,Percentage of persons,Percent,units,71.8,NA
+2023-07,2021A000011124,Women,Other activity,Rating 0-5,Number of persons,Number,thousands,3880,NA
+2023-07,2021A000011124,Women,Other activity,Rating 6-7,Percentage of persons,Percent,units,21.7,NA
+2023-07,2021A000011124,Women,Other activity,Rating 6-7,Number of persons,Number,thousands,1174,NA
+2023-07,2021A000011124,Women,Other activity,Rating 8-10,Percentage of persons,Percent,units,6.5,NA
+2023-07,2021A000011124,Women,"Total, urban and rural areas",Rating 0-5,Percentage of persons,Percent,units,75.2,NA
+2023-07,2021A000011124,Women,"Total, urban and rural areas",Rating 0-5,Number of persons,Number,thousands,12151,NA
+2023-07,2021A000011124,Women,"Total, urban and rural areas",Rating 6-7,Percentage of persons,Percent,units,20,NA
+2023-07,2021A000011124,Women,"Total, urban and rural areas",Rating 6-7,Number of persons,Number,thousands,3236,NA
+2023-07,2021A000011124,Women,"Total, urban and rural areas",Rating 8-10,Percentage of persons,Percent,units,4.7,NA
+2023-07,2021A000011124,Women,"Total, urban and rural areas",Rating 8-10,Number of persons,Number,thousands,764,NA
+2023-07,2021A000011124,Women,Urban areas,Rating 0-5,Percentage of persons,Percent,units,74.5,NA
+2023-07,2021A000011124,Women,Urban areas,Rating 0-5,Number of persons,Number,thousands,10504,NA
+2023-07,2021A000011124,Women,Urban areas,Rating 6-7,Percentage of persons,Percent,units,20.6,NA
+2023-07,2021A000011124,Women,Urban areas,Rating 6-7,Number of persons,Number,thousands,2907,NA
+2023-07,2021A000011124,Women,Urban areas,Rating 8-10,Percentage of persons,Percent,units,4.9,NA
+2023-07,2021A000011124,Women,Urban areas,Rating 8-10,Number of persons,Number,thousands,692,NA
+2023-07,2021A000011124,Women,Rural areas,Rating 0-5,Percentage of persons,Percent,units,80.4,NA
+2023-07,2021A000011124,Women,Rural areas,Rating 0-5,Number of persons,Number,thousands,1648,NA
+2023-07,2021A000011124,Women,Rural areas,Rating 6-7,Percentage of persons,Percent,units,16.1,NA
+2023-07,2021A000011124,Women,Rural areas,Rating 8-10,Percentage of persons,Percent,units,3.5,NA
